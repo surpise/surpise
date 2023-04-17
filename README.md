@@ -1,5 +1,5 @@
 #  ⚙️ Tech Stack 
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=Cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white"/>  
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=Cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-290068?style=for-the-badge&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white"/>  
   
   
 <img src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=Xamarin&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>  
