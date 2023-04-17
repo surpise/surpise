@@ -6,7 +6,7 @@
 
 #
 #  🛹 Embedded Board
-<img src="https://img.shields.io/badge/Arduino-00989d?style=for-the-badge&logo=arduino&logoColor=white"/> <img src="https://img.shields.io/badge/Raspberry Pi-ff55aa?style=for-the-badge&logo=raspberrypi&logoColor=black"/> <img src="https://img.shields.io/badge/OpenCR-4479A1?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/Raspberry Pi-ff55aa?style=for-the-badge&logo=raspberrypi&logoColor=black"/> <img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=NVIDIA&logoColor=white"/> <img src="https://img.shields.io/badge/Arduino-00989d?style=for-the-badge&logo=arduino&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCR-4479A1?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/> 
   
  
 #
