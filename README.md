@@ -13,7 +13,7 @@
   
  
 #
-#  BOJ Tier 
+#  👍 BOJ Tier 
   
 [![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=a201801745)](https://solved.ac/a201801745)
   
