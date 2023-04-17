@@ -9,7 +9,7 @@
 
 #
 #  🛹 Embedded Board 🛹
-<img src="https://img.shields.io/badge/Arduino-white?style={flat}&logo=arduino&logoColor=sky"/>  <img src="https://img.shields.io/badge/Raspberry Pi-ff55aa?style={flat}&logo=raspberrypi&logoColor=black"/>  
+<img src="https://img.shields.io/badge/Arduino-white?style={flat}&logo=arduino&logoColor=sky"/> <img src="https://img.shields.io/badge/Raspberry Pi-ff55aa?style={flat}&logo=raspberrypi&logoColor=black"/> <img src="https://img.shields.io/badge/Raspberry Pi-ff55aa?style={flat}&logo=stmicroelectronics&logoColor=white"/> 
   
  
 #
