@@ -21,7 +21,7 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=a201801745)](https://solved.ac/a201801745)
   
   
-  <img src="http://mazandi.herokuapp.com/api?handle=judgement&theme=warm"/>
+  <img src="http://mazandi.herokuapp.com/api?handle=a201801745&theme=warm"/>
   
 </div>
 
