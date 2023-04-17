@@ -2,7 +2,7 @@
   
  
 #  ⚙️ Tech Stack ⚙️
-<img src="https://img.shields.io/badge/C-gray?style={flat}&logo=C&logoColor=white"/>  <img src="https://img.shields.io/badge/C++-blue?style={flat}&logo=Cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/C#-purple?style={flat}&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/Python-white?style={flat}&logo=python&logoColor=blue"/>  
+<img src="https://img.shields.io/badge/C-gray?style={flat}&logo=C&logoColor=white"/>  <img src="https://img.shields.io/badge/C++-blue?style={flat}&logo=Cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/C##-purple?style={flat}&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/Python-white?style={flat}&logo=python&logoColor=blue"/>  
   
   
 <img src="https://img.shields.io/badge/Xamarin-skyblue?style={flat}&logo=Xamarin&logoColor=3498DB"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style={flat}&logo=mysql&logoColor=white"/>  
