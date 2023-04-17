@@ -10,18 +10,6 @@
 #
 #  💻 Embedded Board 💻
 <img src="https://img.shields.io/badge/Arduino-white?style={flat}&logo=arduino&logoColor=sky"/>  <img src="https://img.shields.io/badge/Raspberry Pi-ff55aa?style={flat}&logo=raspberrypi&logoColor=black"/>  
-
-
-  
-#  Github Stats 
-
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=surpise&show_icons=true&theme=radical)
-<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=surpise&show_icons=true&theme=cobalt)-->
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surpise&layout=compact&theme=dracula)
-
-
   
  
 #
