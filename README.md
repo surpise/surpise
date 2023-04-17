@@ -1,7 +1,7 @@
 <div align="center">
   
  
-#  ⚒️ Tech Stack ⚒️
+#  👨‍💻 Tech Stack 👨‍🔧
 <img src="https://img.shields.io/badge/C-gray?style={flat}&logo=C&logoColor=white"/>  <img src="https://img.shields.io/badge/C++-blue?style={flat}&logo=Cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/C Sharp-purple?style={flat}&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/Python-white?style={flat}&logo=python&logoColor=blue"/>  
   
   
@@ -13,7 +13,7 @@
   
  
 #
-#  🖱️ BOJ Tier ⌨️
+#  🧗 BOJ Tier 🎖️
   
 [![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=a201801745)](https://solved.ac/a201801745)
   
