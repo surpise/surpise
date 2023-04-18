@@ -21,7 +21,7 @@
 <img src="https://img.shields.io/badge/Raspberry Pi-c41949?style=for-the-badge&logo=raspberrypi&logoColor=black"/> <img src="https://img.shields.io/badge/Jetson Nano-76B900?style=for-the-badge&logo=NVIDIA&logoColor=white"/> <img src="https://img.shields.io/badge/Arduino-00989d?style=for-the-badge&logo=arduino&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCR-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/> 
   
  
-# 🥇 BOJ Tier 
+# 🏅 BOJ Tier 
   
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=a201801745)](https://solved.ac/a201801745)
 <img src="http://mazandi.herokuapp.com/api?handle=a201801745&theme=warm"/>
