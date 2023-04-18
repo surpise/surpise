@@ -16,7 +16,13 @@
   
  <img src="https://img.shields.io/badge/MySQL-00618a?style=flat-square&logo=mysql&logoColor=white" height="25"/> 
  <img src="https://img.shields.io/badge/SQLite-003856?style=flat-square&logo=sqlite&logoColor=white" height="25"/>  
-
+  
+<br/>
+<br/>
+  
+ <img src="https://img.shields.io/badge/Fusion 360-ff6b00?style=flat-square&logo=autodesk&logoColor=white" height="25"/>  
+  
+  
 # 🛹 Embedded Board
  <img src="https://img.shields.io/badge/Raspberry Pi-c41949?style=flat-square&logo=raspberrypi&logoColor=black" height="25"/> 
  <img src="https://img.shields.io/badge/Jetson Nano-76B900?style=flat-square&logo=NVIDIA&logoColor=white" height="25"/> 
