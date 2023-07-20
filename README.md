@@ -38,3 +38,4 @@
 <img src="http://mazandi.herokuapp.com/api?handle=a201801745&theme=warm"/>
   
 </div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surpise&layout=compact)
