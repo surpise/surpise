@@ -23,8 +23,6 @@
  
 <br>
 <br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surpise&layout=compact&theme=tokyonight)
   
 # 🛹 Embedded Board
  <img src="https://img.shields.io/badge/Raspberry Pi-c41949?style=flat-square&logo=raspberrypi&logoColor=black" height="25"/> 
