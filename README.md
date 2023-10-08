@@ -25,10 +25,6 @@
  <img src="https://img.shields.io/badge/Jetson Nano-76B900?style=flat-square&logo=NVIDIA&logoColor=white" height="25"/> 
  <img src="https://img.shields.io/badge/Arduino-00989d?style=flat-square&logo=arduino&logoColor=white" height="25"/>
  <img src="https://img.shields.io/badge/OpenCR-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" height="25"/> 
-  
-# 🏅 BOJ Tier 
-  
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=a201801745)](https://solved.ac/a201801745)
 
 # 📖Experience
 | Period | Title |
@@ -38,5 +34,8 @@
 | 2021.12 ~ 2022.01 | 삼성전자 DX 부문 동계 대학생 SW 역량강화특강 수료 |
 | 2021.03 ~ 2021.12 | 인천대학교 실전문제연구단 MMOT |
 
+# 🏅 BOJ Tier 
   
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=a201801745)](https://solved.ac/a201801745)
+
 </div>
