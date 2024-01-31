@@ -14,6 +14,12 @@
 
 <br>
 <br>
+
+ <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" height="25"/>
+ <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black" height="25"/>
+ 
+<br>
+<br>
   
  <img src="https://img.shields.io/badge/MySQL-00618a?style=flat-square&logo=mysql&logoColor=white" height="25"/> 
  
