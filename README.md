@@ -40,9 +40,3 @@
 | 2023.07 ~ 2023.08 | 네이버 커넥트재단 부스트캠프 웹·모바일 8기 챌린지 수료 |
 | 2022.01 ~ 2022.02 | 삼성전자 DX 부문 동계 대학생 SW 역량강화특강 수료 |
 | 2021.03 ~ 2021.12 | 인천대학교 실전문제연구단 MMOT |
-
-# 🏅 BOJ Tier 
-  
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=a201801745)](https://solved.ac/a201801745)
-
-</div>
